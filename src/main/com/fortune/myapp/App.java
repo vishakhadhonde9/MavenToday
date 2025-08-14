@@ -11,7 +11,7 @@
   
    
   
-      private static final String MESSAGE = "Hello World! Welcome To Class"; 
+      private static final String MESSAGE = "Hello World! Welcome To FCT"; 
   
    
   
